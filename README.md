@@ -15,5 +15,4 @@ Proyek ini adalah sebuah halaman website sederhana yang dirancang untuk memperke
 ```plaintext
 .
 ├── index.html       # File utama halaman website
-├── styles.css       # File untuk styling
 ├── gambar/          # Folder berisi gambar yang digunakan
